@@ -1,0 +1,17 @@
+{
+  "name": "annotorious-semantic-tagging-plugin",
+  "version": "1.0.0",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "algoliasearch": "^3.19.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "npm": "~3.10.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/afgarcia86/annotorious-algolia-semantic-tagging-plugin"
+  }
+}
